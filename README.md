@@ -12,6 +12,8 @@ This project aims at forecasting powerplant energy constrains, i.e. minimum ener
 This is a multivariate regression problem whith a timeseries dimension whose predictions must respect a number of constrains, which makes it unusual and challenging.
 	
 ## Technologies
-Project is implemented in Jupyter notebooks using Python.
-	
+Project is implemented in Jupyter notebooks using Python. Mains libraries are Pandas, Scikit-learn, Keras, Matplotlib, LIME.
+
+## Code (viewer for the actual notebooks)
+
 
